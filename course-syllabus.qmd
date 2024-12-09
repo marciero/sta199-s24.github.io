@@ -297,9 +297,9 @@ Please let Dr. Çetinkaya-Rundel know if you need help contacting your academic 
 Regrade requests must be submitted on Gradescope within a week of when an assignment is returned.
 Regrade requests will be considered if there was an error in the grade calculation or if you feel a correct answer was mistakenly marked as incorrect.
 Requests to dispute the number of points deducted for an incorrect response will not be considered.
-Note that by submitting a regrade request, the entire question will be graded which could potentially result in losing points.
+Note that submitting a regrade request will grade the entire question, which could potentially result in losing points.
 
-*No grades will be changed after the project presentations.*
+*No grades will be changed after the final exam.*
 
 ### Attendance policy
 
